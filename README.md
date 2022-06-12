@@ -1,6 +1,6 @@
 # AManager
 
-![Feature](https://user-images.githubusercontent.com/105395630/173237320-66e5b2ba-ed1f-4f58-977e-2050ebc83fe8.jpg)
+![Feature](https://user-images.githubusercontent.com/105395630/173237712-1a175100-dcc8-4bf1-9286-4adadc0732f2.jpg)
 
 A simple account manager made with privacy in mind, completely offline with a clean look
 <br>
