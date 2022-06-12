@@ -7,6 +7,21 @@ A simple account manager made with privacy in mind, completely offline with a cl
 100% Secure since data is saved locally and never goes online
 <br>
 <br>
+Features
+- Windows / Android Support
+- User Friendly
+  - Categories
+  - Notes
+  - Icon Selector
+- Export & Import Database
+- Dark / Light Mode Support
+- Secure
+  - Completely Offline
+  - Biometrics Support
+  - Password Generator
+- Fast
+  - Made with Flutter
+<br>
 Where can i find the android version of the app?
 > https://play.google.com/store/apps/details?id=com.highnd.amanager
 
