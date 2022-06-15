@@ -36,11 +36,6 @@ Want the application to start with Windows?
 Database location
 > AMANGER LOCATION\.dart_tool\sqflite_common_ffi\databases
 
-Want to open the database on your own?
-> For the users \\ Table: users \\ Values: username, password
-> 
-> For the accounts \\ Table: tiles \\ Values: id, username, password, notes
-
 How can i trust your app since it's not open source?
 > If you really want to, you can use programs to see if the app is transfering data
 > 
