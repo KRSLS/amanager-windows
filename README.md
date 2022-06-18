@@ -14,6 +14,7 @@ Features
   - Notes
   - Icon Selector
 - Export & Import Database
+- Dynamic Theme Support
 - Dark / Light Mode Support
 - Secure
   - Completely Offline
