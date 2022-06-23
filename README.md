@@ -10,13 +10,14 @@ A simple account manager made with privacy in mind, completely offline with a cl
 Features
 - Windows / Android Support
 - User Friendly
-  - Categories
+  - Global Search
   - Notes
   - Icon Selector
 - Export & Import Database
 - Dynamic Theme Support
 - Dark / Light Mode Support
 - Secure
+  - Encryption TBA
   - Completely Offline
   - Biometrics Support
   - Password Generator
