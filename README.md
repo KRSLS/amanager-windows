@@ -2,6 +2,8 @@
 
 ![Feature](https://user-images.githubusercontent.com/105395630/173237712-1a175100-dcc8-4bf1-9286-4adadc0732f2.jpg)
 
+#I've lost the project files. This page is only to download the app.
+
 A simple account manager made with privacy in mind, completely offline with a clean look
 <br>
 100% Secure since data is saved locally and never goes online
@@ -37,8 +39,3 @@ Want the application to start with Windows?
 
 Database location
 > AMANGER LOCATION\.dart_tool\sqflite_common_ffi\databases
-
-How can i trust your app since it's not open source?
-> If you really want to, you can use programs to see if the app is transfering data
-> 
-> I won't make my hard work open source
